@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Hello Git
-=======
+
+# Hello Git new changes done
 # Hello Git test
-## Hello git test2
->>>>>>> cef53fc05d4cccdf487cf63369a1d63e7d01ecce
+## Hello git test
